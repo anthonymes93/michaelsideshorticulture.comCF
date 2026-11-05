@@ -1,0 +1,3597 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Gardon - Landscaping & Gardening",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 01",
+            "screenshot": "screenshots\/header-style-01.jpg",
+            "source": "templates\/header-style-01.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/header-style-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 02",
+            "screenshot": "screenshots\/header-style-02.jpg",
+            "source": "templates\/header-style-02.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/header-style-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 03",
+            "screenshot": "screenshots\/header-style-03.jpg",
+            "source": "templates\/header-style-03.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/header-style-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style",
+            "screenshot": "screenshots\/footer-style.jpg",
+            "source": "templates\/footer-style.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/footer-style\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Home 01",
+            "screenshot": "screenshots\/form-home-01.jpg",
+            "source": "templates\/form-home-01.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/form-contact-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Footer",
+            "screenshot": "screenshots\/form-footer.jpg",
+            "source": "templates\/form-footer.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/form-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Home 02",
+            "screenshot": "screenshots\/form-home-02.jpg",
+            "source": "templates\/form-home-02.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/form-contact-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact",
+            "screenshot": "screenshots\/form-contact.jpg",
+            "source": "templates\/form-contact.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/form-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Templates Block Services 01 Home 01",
+            "screenshot": "screenshots\/templates-block-services-01-home-01.jpg",
+            "source": "templates\/templates-block-services-01-home-01.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/templates-block-services-01-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Templates Block Testimonial 01 Home 01",
+            "screenshot": "screenshots\/templates-block-testimonial-01-home-01.jpg",
+            "source": "templates\/templates-block-testimonial-01-home-01.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/templates-block-testimonial-01-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Templates Block Projects 01 Home 01",
+            "screenshot": "screenshots\/templates-block-projects-01-home-01.jpg",
+            "source": "templates\/templates-block-projects-01-home-01.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/templates-block-projects-01-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Template Tabs Pricing Home 02",
+            "screenshot": "screenshots\/template-tabs-pricing-home-02.jpg",
+            "source": "templates\/template-tabs-pricing-home-02.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/template-tabs-pricing-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Templates Block Testimonial Home 02",
+            "screenshot": "screenshots\/templates-block-testimonial-home-02.jpg",
+            "source": "templates\/templates-block-testimonial-home-02.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/templates-block-testimonial-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 03",
+            "screenshot": "screenshots\/home-03.jpg",
+            "source": "templates\/home-03.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/home-03\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/themesflat.com\/gardonkit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.17.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "2.0.6",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-01.json",
+                    "name": "Header Style 01"
+                },
+                {
+                    "source": "templates\/header-style-02.json",
+                    "name": "Header Style 02"
+                },
+                {
+                    "source": "templates\/header-style-03.json",
+                    "name": "Header Style 03"
+                },
+                {
+                    "source": "templates\/footer-style.json",
+                    "name": "Footer Style"
+                }
+            ],
+            "filesize": 4666,
+            "dimensions": [
+                97,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-home02.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-home02-800x229.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer-style.json",
+                    "name": "Footer Style"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 59545,
+            "dimensions": [
+                1894,
+                541
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "base-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/base-2-800x49.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style.json",
+                    "name": "Footer Style"
+                }
+            ],
+            "filesize": 33212,
+            "dimensions": [
+                1894,
+                116
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image-2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style.json",
+                    "name": "Footer Style"
+                }
+            ],
+            "filesize": 17596,
+            "dimensions": [
+                80,
+                79
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-footer-UBDWVAC.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-footer-UBDWVAC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer-style.json",
+                    "name": "Footer Style"
+                }
+            ],
+            "filesize": 10984,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UBDWVAC"
+        },
+        {
+            "filename": "img-footer-MRM7KKD.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-footer-MRM7KKD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer-style.json",
+                    "name": "Footer Style"
+                }
+            ],
+            "filesize": 11418,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MRM7KKD"
+        },
+        {
+            "filename": "image3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image3.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style.json",
+                    "name": "Footer Style"
+                }
+            ],
+            "filesize": 18157,
+            "dimensions": [
+                80,
+                79
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-footer-T3V9MPC.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-footer-T3V9MPC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer-style.json",
+                    "name": "Footer Style"
+                }
+            ],
+            "filesize": 10282,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T3V9MPC"
+        },
+        {
+            "filename": "image6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image6.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style.json",
+                    "name": "Footer Style"
+                }
+            ],
+            "filesize": 16932,
+            "dimensions": [
+                80,
+                79
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image2-2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image2-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/templates-block-services-01-home-01.json",
+                    "name": "Templates Block Services 01 Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 99097,
+            "dimensions": [
+                330,
+                210
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "02-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-2.png",
+            "templates": [
+                {
+                    "source": "templates\/templates-block-services-01-home-01.json",
+                    "name": "Templates Block Services 01 Home 01"
+                }
+            ],
+            "filesize": 7570,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "base.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/base.jpg",
+            "templates": [
+                {
+                    "source": "templates\/templates-block-testimonial-01-home-01.json",
+                    "name": "Templates Block Testimonial 01 Home 01"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 18141,
+            "dimensions": [
+                370,
+                363
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-home01-CT5GNK4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home01-CT5GNK4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/templates-block-testimonial-01-home-01.json",
+                    "name": "Templates Block Testimonial 01 Home 01"
+                }
+            ],
+            "filesize": 10479,
+            "dimensions": [
+                55,
+                55
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CT5GNK4"
+        },
+        {
+            "filename": "img-prj-UBDWVAC.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-prj-UBDWVAC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/templates-block-projects-01-home-01.json",
+                    "name": "Templates Block Projects 01 Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 93458,
+            "dimensions": [
+                370,
+                470
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UBDWVAC"
+        },
+        {
+            "filename": "base-4.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/base-4.png",
+            "templates": [
+                {
+                    "source": "templates\/template-tabs-pricing-home-02.json",
+                    "name": "Template Tabs Pricing Home 02"
+                }
+            ],
+            "filesize": 1557,
+            "dimensions": [
+                370,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "base2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/base2.png",
+            "templates": [
+                {
+                    "source": "templates\/template-tabs-pricing-home-02.json",
+                    "name": "Template Tabs Pricing Home 02"
+                }
+            ],
+            "filesize": 1561,
+            "dimensions": [
+                370,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "base-5.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/base-5.png",
+            "templates": [
+                {
+                    "source": "templates\/templates-block-testimonial-home-02.json",
+                    "name": "Templates Block Testimonial Home 02"
+                }
+            ],
+            "filesize": 14185,
+            "dimensions": [
+                430,
+                454
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image2-22.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image2-22-800x368.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 282893,
+            "dimensions": [
+                1894,
+                872
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image1-800x368.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 232601,
+            "dimensions": [
+                1894,
+                872
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-home01-6TUEMY2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home01-6TUEMY2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 153888,
+            "dimensions": [
+                567,
+                567
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TUEMY2"
+        },
+        {
+            "filename": "img-home01-7HCTVFQ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home01-7HCTVFQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 87676,
+            "dimensions": [
+                367,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7HCTVFQ"
+        },
+        {
+            "filename": "base.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/base.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 26843,
+            "dimensions": [
+                245,
+                148
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 618,
+            "dimensions": [
+                32,
+                16
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "01.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 4084,
+            "dimensions": [
+                82,
+                82
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 3619,
+            "dimensions": [
+                82,
+                82
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "01-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 1882,
+            "dimensions": [
+                62,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 2888,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 3156,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 2455,
+            "dimensions": [
+                62,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image6-2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image6-2-800x392.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 159848,
+            "dimensions": [
+                1894,
+                928
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "grass.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/grass-800x95.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 152389,
+            "dimensions": [
+                1894,
+                226
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "line.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/line-800x81.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 5428,
+            "dimensions": [
+                859,
+                87
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 16422,
+            "dimensions": [
+                120,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "arrow.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/arrow.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 598,
+            "dimensions": [
+                48,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 15179,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "arrow2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/arrow2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 599,
+            "dimensions": [
+                48,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/03-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 19238,
+            "dimensions": [
+                120,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/04-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 16703,
+            "dimensions": [
+                120,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image-4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image-4-800x355.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 226968,
+            "dimensions": [
+                1170,
+                519
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image5-3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image5-3-800x355.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 225579,
+            "dimensions": [
+                1170,
+                519
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-about.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-about-800x257.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 189511,
+            "dimensions": [
+                1894,
+                609
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "01-4.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3647,
+            "dimensions": [
+                124,
+                138
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-4.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4724,
+            "dimensions": [
+                124,
+                138
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/03-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2491,
+            "dimensions": [
+                124,
+                138
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/04-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4917,
+            "dimensions": [
+                124,
+                138
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-2-800x137.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 19555,
+            "dimensions": [
+                1170,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-home01-72X5YE3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home01-72X5YE3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 49823,
+            "dimensions": [
+                300,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-72X5YE3"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2013,
+            "dimensions": [
+                71,
+                71
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-team-QFPJ5AD.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-team-QFPJ5AD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 98301,
+            "dimensions": [
+                370,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QFPJ5AD"
+        },
+        {
+            "filename": "base-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/base-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 9208,
+            "dimensions": [
+                370,
+                38
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-team-LZN2UGD.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-team-LZN2UGD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 117913,
+            "dimensions": [
+                370,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LZN2UGD"
+        },
+        {
+            "filename": "img-team-8CF3TMM.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-team-8CF3TMM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 83331,
+            "dimensions": [
+                370,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8CF3TMM"
+        },
+        {
+            "filename": "bg-3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-3-800x351.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 47150,
+            "dimensions": [
+                1894,
+                831
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "bg-home01.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-home01-800x693.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 148697,
+            "dimensions": [
+                959,
+                831
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-home01-WVDWLM9.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home01-WVDWLM9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 174129,
+            "dimensions": [
+                658,
+                730
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WVDWLM9"
+        },
+        {
+            "filename": "image-7.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 57450,
+            "dimensions": [
+                241,
+                241
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "logoipsum-297.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/logoipsum-297.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2072,
+            "dimensions": [
+                123,
+                24
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "base-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/base-3-800x22.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 33751,
+            "dimensions": [
+                1894,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-home02-5Y3PQQW.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home02-5Y3PQQW-800x340.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 209550,
+            "dimensions": [
+                1694,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5Y3PQQW"
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3609,
+            "dimensions": [
+                139,
+                72
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-06.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-06-800x340.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 166889,
+            "dimensions": [
+                1694,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-home02-72X5YE3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home02-72X5YE3-800x340.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 268799,
+            "dimensions": [
+                1694,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-72X5YE3"
+        },
+        {
+            "filename": "img-home02-GFVAG3L.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home02-GFVAG3L.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 95987,
+            "dimensions": [
+                370,
+                261
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GFVAG3L"
+        },
+        {
+            "filename": "01-5.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 2169,
+            "dimensions": [
+                67,
+                67
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image2-8.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image2-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 139344,
+            "dimensions": [
+                370,
+                261
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-5.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1482,
+            "dimensions": [
+                52,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image3-6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image3-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 128890,
+            "dimensions": [
+                370,
+                261
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-home02-FM7Q7BJ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home02-FM7Q7BJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 133808,
+            "dimensions": [
+                400,
+                504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FM7Q7BJ"
+        },
+        {
+            "filename": "img-home02-ZBLYZWU.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home02-ZBLYZWU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 83940,
+            "dimensions": [
+                404,
+                440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZBLYZWU"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6438,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-4-800x360.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 48530,
+            "dimensions": [
+                1894,
+                852
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "01-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3326,
+            "dimensions": [
+                88,
+                88
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3922,
+            "dimensions": [
+                88,
+                88
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-5.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/03-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3537,
+            "dimensions": [
+                88,
+                88
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/04-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 4397,
+            "dimensions": [
+                88,
+                88
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-home02-6TUEMY2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home02-6TUEMY2-800x563.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 208371,
+            "dimensions": [
+                816,
+                574
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TUEMY2"
+        },
+        {
+            "filename": "01-7.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1295,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-7.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3139,
+            "dimensions": [
+                62,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 2058,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-prj-7QSA8R2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-prj-7QSA8R2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 119111,
+            "dimensions": [
+                370,
+                470
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7QSA8R2"
+        },
+        {
+            "filename": "img-prj-MRM7KKD.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-prj-MRM7KKD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 89366,
+            "dimensions": [
+                370,
+                470
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MRM7KKD"
+        },
+        {
+            "filename": "img-prj-GFVAG3L.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-prj-GFVAG3L.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 119816,
+            "dimensions": [
+                370,
+                470
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GFVAG3L"
+        },
+        {
+            "filename": "img-home02-FLLE4G7.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home02-FLLE4G7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 21848,
+            "dimensions": [
+                159,
+                159
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FLLE4G7"
+        },
+        {
+            "filename": "01-8.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 4649,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-8.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6415,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/03-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3935,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04-4.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/04-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 5283,
+            "dimensions": [
+                129,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-6-800x294.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 62720,
+            "dimensions": [
+                1894,
+                695
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-about-FPZNDCW.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-about-FPZNDCW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 115841,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FPZNDCW"
+        },
+        {
+            "filename": "img-about-2YLYYEZ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-about-2YLYYEZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 31753,
+            "dimensions": [
+                197,
+                197
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2YLYYEZ"
+        },
+        {
+            "filename": "img-home02-MSX353J.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home02-MSX353J-800x599.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 289914,
+            "dimensions": [
+                962,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MSX353J"
+        },
+        {
+            "filename": "bg-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-1-800x526.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 16681,
+            "dimensions": [
+                962,
+                633
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image3-15.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image3-15-800x387.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 159958,
+            "dimensions": [
+                1920,
+                929
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-01.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 130017,
+            "dimensions": [
+                741,
+                616
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-03.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 75233,
+            "dimensions": [
+                657,
+                585
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-04.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 229101,
+            "dimensions": [
+                651,
+                787
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-05.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 44108,
+            "dimensions": [
+                696,
+                589
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-02.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 84042,
+            "dimensions": [
+                597,
+                487
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-home03-FLLE4G7.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home03-FLLE4G7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 87054,
+            "dimensions": [
+                570,
+                274
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FLLE4G7"
+        },
+        {
+            "filename": "01-10.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2652,
+            "dimensions": [
+                82,
+                82
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-home03-ZBLYZWU.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home03-ZBLYZWU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 71691,
+            "dimensions": [
+                570,
+                274
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZBLYZWU"
+        },
+        {
+            "filename": "02-10.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2401,
+            "dimensions": [
+                82,
+                82
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-home03-WVDWLM9.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home03-WVDWLM9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 103409,
+            "dimensions": [
+                441,
+                496
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WVDWLM9"
+        },
+        {
+            "filename": "img1-home03-YKE266D.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img1-home03-YKE266D.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 55650,
+            "dimensions": [
+                270,
+                276
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YKE266D"
+        },
+        {
+            "filename": "line-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/line-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 362,
+            "dimensions": [
+                16,
+                190
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-4.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 3152,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-home03-EGFPVHJ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home03-EGFPVHJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 59319,
+            "dimensions": [
+                270,
+                182
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EGFPVHJ"
+        },
+        {
+            "filename": "01-11.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2327,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image2-13.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image2-13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 69540,
+            "dimensions": [
+                270,
+                182
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "02-11.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2908,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-home03-PFK7BZ5.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home03-PFK7BZ5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 53482,
+            "dimensions": [
+                270,
+                182
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFK7BZ5"
+        },
+        {
+            "filename": "03-8.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/03-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2520,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-home03-BM49FJS.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home03-BM49FJS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 68375,
+            "dimensions": [
+                270,
+                182
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BM49FJS"
+        },
+        {
+            "filename": "04-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/04-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 3369,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image-19.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image-19.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 187370,
+            "dimensions": [
+                670,
+                459
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image2-14.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image2-14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 156754,
+            "dimensions": [
+                670,
+                459
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image3-8.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image3-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 166893,
+            "dimensions": [
+                670,
+                459
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image4-2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image4-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 116138,
+            "dimensions": [
+                670,
+                459
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image5-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image5-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 172620,
+            "dimensions": [
+                670,
+                459
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 184232,
+            "dimensions": [
+                670,
+                459
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-home03.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home03-800x291.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 289562,
+            "dimensions": [
+                1894,
+                689
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "icon-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 612,
+            "dimensions": [
+                32,
+                16
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "base-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/base-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 3701,
+            "dimensions": [
+                249,
+                204
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "01-12.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 4132,
+            "dimensions": [
+                114,
+                114
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-12.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 4297,
+            "dimensions": [
+                114,
+                114
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-9.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/03-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 6080,
+            "dimensions": [
+                114,
+                114
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04-7.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/04-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 4472,
+            "dimensions": [
+                114,
+                114
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-8.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-8-800x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 394296,
+            "dimensions": [
+                1894,
+                740
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-home03-YKE266D.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-home03-YKE266D-800x601.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 304622,
+            "dimensions": [
+                985,
+                740
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YKE266D"
+        },
+        {
+            "filename": "bg-home03.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-home03-800x617.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 172456,
+            "dimensions": [
+                957,
+                738
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-9.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-9-800x376.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 134189,
+            "dimensions": [
+                1894,
+                890
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-about-5JJWYCG.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-about-5JJWYCG.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 108058,
+            "dimensions": [
+                275,
+                297
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5JJWYCG"
+        },
+        {
+            "filename": "img-contact-LZN2UGD.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-contact-LZN2UGD-800x225.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 231317,
+            "dimensions": [
+                1894,
+                532
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LZN2UGD"
+        },
+        {
+            "filename": "img-about-DX3S7V2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-about-DX3S7V2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 100360,
+            "dimensions": [
+                270,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DX3S7V2"
+        },
+        {
+            "filename": "img-about-485Y3QU.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-about-485Y3QU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 102019,
+            "dimensions": [
+                270,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-485Y3QU"
+        },
+        {
+            "filename": "img-sv-T3V9MPC.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-sv-T3V9MPC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 46690,
+            "dimensions": [
+                330,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T3V9MPC"
+        },
+        {
+            "filename": "01-15.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-15.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6807,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-14.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-14.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7395,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-sv-PFK7BZ5.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-sv-PFK7BZ5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 54281,
+            "dimensions": [
+                330,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFK7BZ5"
+        },
+        {
+            "filename": "03-11.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/03-11.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6975,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-sv-BM49FJS.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-sv-BM49FJS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 67309,
+            "dimensions": [
+                330,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BM49FJS"
+        },
+        {
+            "filename": "04-9.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/04-9.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7824,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-sv-F3CPFU6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-sv-F3CPFU6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 44993,
+            "dimensions": [
+                330,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F3CPFU6"
+        },
+        {
+            "filename": "05-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/05-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6898,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image3-10.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image3-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 115616,
+            "dimensions": [
+                330,
+                210
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "06.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/06.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6551,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image2-18.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image2-18.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 130332,
+            "dimensions": [
+                370,
+                470
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image3-11.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image3-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 190293,
+            "dimensions": [
+                370,
+                470
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-team-PH982X9.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-team-PH982X9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 83508,
+            "dimensions": [
+                370,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PH982X9"
+        },
+        {
+            "filename": "img-team-DW2B89T.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-team-DW2B89T.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 118787,
+            "dimensions": [
+                370,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DW2B89T"
+        },
+        {
+            "filename": "img-team-D68DJSA.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-team-D68DJSA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 80860,
+            "dimensions": [
+                370,
+                394
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D68DJSA"
+        },
+        {
+            "filename": "img-gallery-KHJ2RGT.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-gallery-KHJ2RGT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 81780,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KHJ2RGT"
+        },
+        {
+            "filename": "image2-20.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image2-20.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 83994,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-gallery-7HCTVFQ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-gallery-7HCTVFQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 116557,
+            "dimensions": [
+                370,
+                564
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7HCTVFQ"
+        },
+        {
+            "filename": "image3-13.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image3-13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 151645,
+            "dimensions": [
+                370,
+                564
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-gallery-EGFPVHJ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-gallery-EGFPVHJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 80197,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EGFPVHJ"
+        },
+        {
+            "filename": "img-gallery-MT67RPJ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-gallery-MT67RPJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 74195,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MT67RPJ"
+        },
+        {
+            "filename": "image4-3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image4-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 85222,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image9.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/image9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 84201,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "bg-12.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/bg-12-800x211.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 29714,
+            "dimensions": [
+                1170,
+                309
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "img-faq-PPTW9YF.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/img-faq-PPTW9YF.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 53542,
+            "dimensions": [
+                270,
+                259
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPTW9YF"
+        },
+        {
+            "filename": "icon-5.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 1465,
+            "dimensions": [
+                45,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "01-16.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/01-16.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 1602,
+            "dimensions": [
+                49,
+                49
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-15.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/02-15.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 1745,
+            "dimensions": [
+                47,
+                49
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-12.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/gardonkit\/wp-content\/uploads\/2023\/11\/03-12.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 1831,
+            "dimensions": [
+                49,
+                49
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        }
+    ]
+}
